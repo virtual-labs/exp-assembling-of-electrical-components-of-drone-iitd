@@ -20,9 +20,7 @@ every drone consist of following basic and essential parts<
 
 The arms of the frame are available in 2 red and 2 white colours which can guide you to fly in the right direction.Arms have support ridges on them,which improves stability and provides faster forward flight
 
-<br> 
-<img src="images/th1.png" style="height: 300px; float:left"> <img src="images/th01.png" style="height: 300px; float: left;">
-<br>
+<img src="images/th01.png" style="height: 300px;">
 
 #### Center Plate
 
