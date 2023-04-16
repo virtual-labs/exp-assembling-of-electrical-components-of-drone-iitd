@@ -28,9 +28,9 @@
 
 #### Click on soldering iron for pre-soldering of center plate.
 
-#### <u>NOTE</u><br>Repeat the same process with other 3 ESCs.
+#### NOTE- Repeat the same process with other 3 ESCs.
 
-#### <u>Test Your Memory</u>
+#### Test Your Memory
 
 #### Click on soldering iron for pre-soldering of center plate.
 
@@ -42,27 +42,27 @@
 
 #### Click on soldering iron to solder PMU red and black wires with center plate.
 
-#### <u>Test Your Memory</u>
+#### Test Your Memory
 
 #### Click on the button of digital multimeter to turn on digital multimeter.
 
-Drag red and black pin one by one of digital multimeter and touch it with the soldering points of #### deans plug and PMU to check connections.
+#### Drag red and black pin one by one of digital multimeter and touch it with the soldering points of deans plug and PMU to check connections.
 
 #### Again drag black pin and touch it with the other soldering point to check another connection.
 
-#### <u>NOTE</u><br>Check all connections one by one with the help of digital multimeter.
+#### NOTE- Check all connections one by one with the help of digital multimeter.
 
 #### Drag black and red wires one by one and put it back near digital multimeter.
 
 #### Click on the button of digital multimeter to turn Off digital multimeter.
 
-Drag glue gun and drop it on the center plate to apply hot glue on the soldering points to prevent #### short circuit.
+#### Drag glue gun and drop it on the center plate to apply hot glue on the soldering points to prevent short circuit.
 
-#### <u>NOTE</u><br>Apply hot glue on all the soldering points to prevent short circuit.
+#### NOTE- Apply hot glue on all the soldering points to prevent short circuit.
 
 #### Again drag glue gun and put it back on the table.
 
-#### <u>Test Your Memory</u>
+#### Test Your Memory 
 
 #### Drag red arm and put it on the middle of the table.
 
@@ -74,9 +74,9 @@ Drag glue gun and drop it on the center plate to apply hot glue on the soldering
 
 #### Drag Allen Key and drop it on the screws one by one to tight all screws.
 
-#### <u>NOTE</u><br>Repeat the same process with other 3 arms and motors.
+#### NOTE- Repeat the same process with other 3 arms and motors.
 
-#### <u>Test Your Memory</u>
+#### Test Your Memory 
 
 #### Drag all arms one by one and put them near the center plate to attach them with center plate.
 
@@ -96,7 +96,6 @@ Drag glue gun and drop it on the center plate to apply hot glue on the soldering
 
 #### Drag cable tie to tie ESC with arm.
 
-#### NOTE
-Repeat the same process with other 3 ESCs.
+#### NOTE- Repeat the same process with other 3 ESCs.
 
 #### Thank You For Performing the Experiment
