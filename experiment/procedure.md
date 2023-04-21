@@ -1,7 +1,7 @@
 ### Procedure
 
 #### Click Here to Enter the Lab
-
+<!--
 ### Precautions
 
 #### 1. No cell phone or ear phone usage in the laboratories.
@@ -14,7 +14,7 @@
 #### 8. Do not make circuit changes or perform any wiring when power is on.
 #### 9. All equipment should be regularly inspected for wear or deterioration.
 #### 10. Know emergency exit routes.
-
+-->
 #### Drag Center plate and put it on the center of the table.
 
 
