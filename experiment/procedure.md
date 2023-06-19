@@ -1,6 +1,8 @@
 ### Procedure
 
 #### Click Here to Enter the Lab
+#### <img src="images/enter.png" style="height: 500px;">
+
 <!--
 ### Precautions
 
