@@ -21,32 +21,60 @@
 #### Click the next button
 #### <img src="images/next.png" style="height: 500px;">
 
+#### Click the ok button
+#### <img src="images/ok0.png" style="height: 500px;">
+
 #### Drag Center plate and put it on the center of the table.
 
 
 <!-- #### <img src="images/pro1.png" style="height: 500px;"> -->
+
+#### Click the ok button
+#### <img src="images/ok1.png" style="height: 500px;">
+
+#### Click on soldering iron for pre-soldering of center plate.
+#### <img src="images/soldering.png" style="height: 500px;">
+
+#### Click the ok button
+#### <img src="images/ok3.png" style="height: 500px;">
 
 #### Drag ESC and put it near the Center plate.
 
 <!-- #### <img src="images/pro2.png" style="height: 500px;"> -->
 
 #### Click on soldering iron to solder ESC's red and black wires with center plate.
-
-#### Click on soldering iron for pre-soldering of center plate.
+#### <img src="images/click.png" style="height: 500px;">
 
 #### NOTE- Repeat the same process with other 3 ESCs.
+
+#### Click the next button
+#### <img src="images/next2.png" style="height: 500px;">
 
 #### Test Your Memory
 
 #### Click on soldering iron for pre-soldering of center plate.
+#### <img src="images/pro3.png" style="height: 500px;">
+
+#### Click the ok button
+#### <img src="images/ok4.png" style="height: 500px;">
 
 #### Drag deans plug and put it near the center plate.
+#### <img src="images/drag2.png" style="height: 500px;">
 
 #### Click on soldering iron to solder Deans plug's red and black wires with center plate.
+#### <img src="images/click3.png" style="height: 500px;">
+
+#### Click the ok button
+#### <img src="images/ok5.png" style="height: 500px;">
 
 #### Drag PMU and put it near the center plate.
+#### <img src="images/drag3.png" style="height: 500px;">
 
 #### Click on soldering iron to solder PMU red and black wires with center plate.
+#### <img src="images/click4.png" style="height: 500px;">
+
+#### Click the next button
+#### <img src="images/next3.png" style="height: 500px;">
 
 #### Test Your Memory
 
