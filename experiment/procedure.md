@@ -113,8 +113,6 @@
 #### Click the next button
 #### <img src="images/next5.png" style="height: 500px;">
 
-#### Again drag glue gun and put it back on the table.
-
 #### Test Your Memory 
 #### Choose the option and click on the submit button
 #### <img src="images/submit3.png" style="height: 500px;">
