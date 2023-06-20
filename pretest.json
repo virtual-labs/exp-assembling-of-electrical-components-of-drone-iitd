@@ -1,0 +1,89 @@
+{
+  "version": 2.0,
+  "questions": [{
+      "question": "1. The type of battery required for drone to power up?",
+      "answers": {
+        "a": "LiPo",
+        "b": "Li-ion",
+        "c": "Lead Acid",
+        "d": "Dry Cell"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. _______ rotates the drone clockwise or counterclockwise.",
+      "answers": {
+        "a": "Roll",
+        "b": "Pitch",
+        "c": "Yaw",
+        "d": "Throttle"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. A quadcopter is a multicopter that is lifted and propelled by",
+      "answers": {
+        "a": "Three rotors",
+        "b": "Four Rotors",
+        "c": "Two Rotors",
+        "d": "No Rotor"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. For stability of the drone, the rotation of propeller should be",
+      "answers": {
+        "a": "Same for all the rotors.",
+        "b": "Same for the opposite side rotors.",
+        "c": "Same for the same side rotors.",
+        "d": "None of the above."
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. _______ are the best solution to reduce the impact of hard and rough landings.",
+      "answers": {
+        "a": "Landing Gears",
+        "b": "Propellers",
+        "c": "Arms",
+        "d": "Motors"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
