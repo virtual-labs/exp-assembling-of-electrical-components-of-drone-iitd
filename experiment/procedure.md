@@ -177,7 +177,7 @@
 #### <img src="images/drag15.png" style="height: 500px;">
 
 #### Drag black wire of motor and attach with ESC's socket 2.
-#### <img src="images/socket2.png" style="height: 500px;">
+#### <img src="images/drag16.png" style="height: 500px;">
 
 #### Drag red wire of motor and attach with ESC's socket 3.
 #### <img src="images/drag17.png" style="height: 500px;">
