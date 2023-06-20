@@ -17,6 +17,10 @@
 #### 9. All equipment should be regularly inspected for wear or deterioration.
 #### 10. Know emergency exit routes.
 -->
+
+#### Click the next button
+#### <img src="images/next.png" style="height: 500px;">
+
 #### Drag Center plate and put it on the center of the table.
 
 
