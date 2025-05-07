@@ -1,5 +1,147 @@
 ### Procedure
 
+#### Components Used in Drone Assembly Simulation
+
+This section lists and explains the key components utilized in the drone assembly simulation. Each component plays a vital role in building, maintaining, and understanding the operation of drones. Real-world usage and simulation-specific explanations are provided for better understanding.
+
+#### PMU (POWER MANAGEMENT UNIT)
+
+A Power Management Unit (PMU) is a critical component in drones that regulates and distributes power efficiently to various onboard electronics. It ensures a stable power supply to essential parts such as the flight controller (FC), electronic speed controllers (ESCs), GPS module, and other peripherals by converting and managing voltage levels. The PMU typically includes built-in safety features like overvoltage, overcurrent, and short-circuit protection to prevent damage to sensitive components. In advanced drone systems, the PMU can also monitor battery health, providing real-time data on voltage, current, and power consumption to optimize flight performance and extend battery life.
+
+> **Simulation Insight:** The PMU regulates power being fed to the FC, ESCs, and other components. It features voltage detection and alarms, along with two extendable CAN-bus ports for connecting peripherals.
+
+<br>
+<img src="images/pmu.png" style="height: 300px;">
+<br>
+
+---
+
+#### PDB (POWER DISTRIBUTION BOARD)
+
+A Power Distribution Board (PDB) is a crucial component in a drone that manages the power supply from the main battery to various electronic parts like ESCs, FC, and other systems. It acts as a central hub for stable and efficient voltage distribution.
+
+Modern PDBs often feature:
+- Integrated voltage regulators (e.g., 5V, 12V outputs)
+- Current sensors for monitoring power usage
+
+Proper PDB wiring ensures that all components receive correct voltage and helps prevent electrical failures.
+
+<br>
+<img src="images/pdb.png" style="height: 300px;">
+<br>
+
+---
+
+#### SOLDERING IRON
+
+A soldering iron is a crucial tool used for joining electronic components by melting solder to form strong electrical connections. It typically features a heated metal tip and insulated handle, with some variants offering precise temperature control.
+
+In drone assembly, it is used for:
+- Connecting motors
+- Attaching ESCs
+- Wiring PDBs
+
+> **Tip:** Use a 40-60W fine-tipped soldering iron for drone builds to ensure precision and avoid damage.
+
+<br>
+<img src="images/soldering_iron.png" style="height: 300px;">
+<br>
+
+---
+
+#### DEANS PLUG
+
+A Deans plug (T-plug) is a compact, high-current connector commonly used in drones for secure and efficient battery-to-system power connections. Its low-resistance design helps avoid voltage drops, while its tight fit prevents accidental disconnection mid-flight.
+
+> **Note:** Proper soldering and insulation are key to safe and reliable Deans plug use.
+
+<br>
+<img src="images/deans_plug.png" style="height: 300px;">
+<br>
+
+---
+
+#### DIGITAL MULTIMETER
+
+A Digital Multimeter (DMM) is a tool used to measure voltage, current, and resistance in circuits with precision. It’s widely used in drone diagnostics to test battery levels, ESC outputs, and wiring continuity.
+
+Common modes include:
+- AC/DC voltage
+- Resistance
+- Continuity checks
+
+> **Simulation Insight:** Advanced DMMs offer continuity, diode testing, and capacitance measurements.
+
+<br>
+<img src="images/dmm.png" style="height: 300px;">
+<br>
+
+---
+
+#### GLUE GUN
+
+A glue gun dispenses melted adhesive for quick bonding. It is commonly used in drone builds to:
+- Secure wires
+- Fix frame cracks
+- Attach lightweight parts
+
+It offers a lightweight, efficient solution for reinforcing small components during assembly.
+
+> **Simulation Insight:** Also used in appliance and HVSE unit assembly, glue guns are effective for surface laminations and minor structural fixes.
+
+<br>
+<img src="images/glue_gun.png" style="height: 300px;">
+<br>
+
+---
+
+#### ARMS
+
+Drone arms are the structural extensions from the frame that hold the motors and propellers. They are critical for:
+- Stability and balance
+- Thrust distribution
+
+Made from materials like **carbon fiber**, **aluminum**, or **plastic**, they vary in length for agility vs. stability.
+
+> **Simulation Insight:** Arms come in red and white to help guide flight direction. Support ridges improve stability and forward flight performance.
+
+<br>
+<img src="images/drone_arms.png" style="height: 300px;">
+<br>
+
+---
+
+#### BRUSHLESS MOTOR
+
+Brushless motors (BLDC) are essential for drone propulsion. Unlike brushed motors, they have no physical brushes, reducing wear and increasing efficiency.
+
+Key features:
+- High torque-to-weight ratio
+- Longer lifespan
+- Controlled by ESCs for speed and direction
+
+> **Simulation Insight:** Brushless motors drive propellers, generating thrust and direction control. Choosing the right motor is key to drone performance.
+
+<br>
+<img src="images/brushless_motor.png" style="height: 300px;">
+<br>
+
+---
+
+#### ALLEN KEY
+
+An Allen key (hex key) is a simple L-shaped tool used to drive hexagonal-socket screws. In drone assembly, it is used for:
+- Tightening motor mounts
+- Assembling frames
+- Adjusting structural components
+
+> **Simulation Insight:** Allen keys are made of hexagonal rods used to turn screws with matching recesses for secure fastening.
+
+<br>
+<img src="images/allen_key.png" style="height: 300px;">
+<br>
+
+
 #### Click Here to Enter the Lab
 #### <img src="images/enter.png" style="height: 500px;">
 
